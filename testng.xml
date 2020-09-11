@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="BobITWebPractice Automation Test Suite">
+  
+  <listeners>
+		<listener class-name="com.bobit.qa.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+  
+  <test thread-count="5" name="BobITWebPractice Automation Test Cases">
+     
+    <classes>
+      <class name="com.bobit.qa.testcases.LoginPageTest"/>
+      <class name="com.bobit.qa.testcases.FormPageTest"/>
+      <class name="com.bobit.qa.testcases.CheckboxPageTest"/>
+      <class name="com.bobit.qa.testcases.InputFormPageTest1"/>
+      <class name="com.bobit.qa.testcases.RadioButtonPageTest"/>
+    </classes>
+        
+  </test> <!-- Test -->
+  
+  
+  
+</suite> <!-- Suite -->

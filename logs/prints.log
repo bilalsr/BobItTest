@@ -1,0 +1,7 @@
+15:33:44.747 [main] INFO  org.jsoup.Connection$Base - Driver is initalizaed
+15:34:32.760 [main] INFO  org.jsoup.Connection$Base - Driver is initalizaed
+15:34:33.622 [main] INFO  org.jsoup.Connection$Base - hello
+15:34:33.623 [main] INFO  org.jsoup.Connection$Base - hi
+15:34:33.623 [main] WARN  org.jsoup.Connection$Base -  cok onemli
+15:34:33.623 [main] INFO  org.jsoup.Connection$Base - checkbox validated
+15:34:42.808 [main] INFO  org.jsoup.Connection$Base - Driver is initalizaed
