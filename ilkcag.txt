@@ -1,1 +1,3 @@
 ilk cag dosyasina veri girdim
+
+ilk cag dosyasina yeniden bir satir daha girrdim
