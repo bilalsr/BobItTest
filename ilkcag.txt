@@ -1,0 +1,5 @@
+ilk cag dosyasina veri girdim
+
+ilk cag dosyasina yeniden bir satir daha girrdim
+
+ilk cag dosyasina ucuncu bir satir girdim
